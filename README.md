@@ -10,7 +10,7 @@ The realization of this application was inspired by Philipp Lackner with his vid
 ## 🔨  How to install and run the project
 Clone this repository :<br/>
 `
-git clone https://github.com/ndenicolais/stopwatch.git
+git clone https://github.com/ndenicolais/Stopwatch.git
 `
 
 

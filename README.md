@@ -27,7 +27,7 @@ Jetpack Compose
 ## 📚 Package Structure
 
 ```
-com.denicks21.stopwatch        # ROOT PACKAGE
+com.denicks21.stopwatch         # ROOT PACKAGE
 │
 ├── ui.theme                    # THEME FOLDER
 |   │   ├── Color               # Color palette used by the app.

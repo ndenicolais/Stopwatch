@@ -36,6 +36,7 @@ com.denicks21.stopwatch        # ROOT PACKAGE
 |   │   ├── Type                # Typography styles for the fonts used by the app.
 |
 ├── MainActivity                # Main activity
+├── Stopwatch                   # Stopwatch setting page
 ```
 
 ## 📎 Screenshots
